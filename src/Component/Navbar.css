@@ -1,0 +1,34 @@
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+  }
+  
+  .navbar-nav .dropdown-menu {
+    background-color: #343a40;
+  }
+  
+  .navbar-nav .dropdown-item {
+    color: #fff;
+  }
+  
+  .navbar-nav .dropdown-item:hover {
+    background-color: #495057;
+  }
+
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .btn-outline-success {
+    color: #fff;
+    border-color: #28a745;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+  }

@@ -84,7 +84,7 @@ export default function Customers() {
     {data.length > 0 ? (
       data.map((item, index) => (
         <tr key={index} >
-      <th scope="row">1</th>
+      <th scope="row">{index + 1}</th>
       <td>{item.name}</td>
       <td>{item.branch}</td>
       <td>{item.comname}</td>
