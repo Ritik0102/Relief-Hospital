@@ -1,0 +1,11 @@
+/* filepath: /C:/Users/DRASHTI ARTS/Desktop/Relife Hospital/relief-hospital/src/Component/Dashboard.css */
+.card-fixed-size {
+    height: 200px; /* Set your desired height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
