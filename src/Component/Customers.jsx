@@ -99,14 +99,14 @@ export default function Customers() {
       <td>{item.amount}</td>
       <td>{item.status}</td>
       <td>
-                  {/* <button
+                  <button
                     className="btn btn-warning btn-sm me-2"
                     data-bs-toggle="modal"
-                    data-bs-target="#customerModal"
+                    data-bs-target="#exampleModal"
                     onClick={() => handleEdit(index)}
                   >
                     Edit
-                  </button> */}
+                  </button>
                   <button
                     className="btn btn-danger btn-sm"
                     onClick={() => handleDelete(index)}
