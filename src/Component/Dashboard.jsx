@@ -1,6 +1,6 @@
 // filepath: /C:/Users/DRASHTI ARTS/Desktop/Relife Hospital/relief-hospital/src/Component/Dashboard.jsx
 import React from 'react';
-import './Dashboard.css'; // Assuming you have a CSS file for additional styling
+import './Dashboard.css'; 
 
 export default function Dashboard() {
   return (

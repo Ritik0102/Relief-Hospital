@@ -60,7 +60,7 @@ export default function Customers() {
 
   return (
     <>
-    <div>
+    <div className='container mt-5'>
       <table className="table table-hover">
   <thead>
     <tr>
